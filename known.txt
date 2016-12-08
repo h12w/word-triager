@@ -23,8 +23,10 @@
 6mm
 70s
 72nd
+77th
 7th
 800-metre
+86th
 9th
 ASAP
 ATM
@@ -44,6 +46,7 @@ Allure
 Alright
 Altering
 Americans
+Anderson
 Andrew
 Angeles
 Anti-piracy
@@ -73,6 +76,7 @@ Boston
 Boyden
 Brace
 Bride
+Brighton
 Britain
 Bronzed
 Brooklyn
@@ -86,6 +90,7 @@ Bye-bye
 CD
 CDs
 COMPREHENSION
+Cable
 Cable-modem
 Carla
 Carolyn
@@ -222,6 +227,7 @@ Jimmy
 Joe
 Joining
 Jonathan
+Jordans
 Josh
 Jr
 Juice
@@ -239,6 +245,7 @@ Kyra
 Lantern
 Larry
 Latex
+Lathan
 Laurie
 Lee
 Lending
@@ -288,6 +295,7 @@ Oh
 Olives
 Olympics
 Orange
+Oth
 Ouch
 Outlook
 PC
@@ -297,7 +305,9 @@ Pan
 Pardon
 Park
 Parker
+Patty
 Paul
+Payday
 Peking
 Pennsylvania
 Pets
@@ -317,11 +327,13 @@ Rachel
 Rat
 Ray
 Reddit
+Redman
 Relax
 Reporting
 Republican
 Republicans
 Rick
+Ricki
 Rolf
 Rosa
 Russia
@@ -346,6 +358,7 @@ She'll
 Shop
 Simmons
 Smith
+Smoke
 Socializing
 Sorry
 Spain
@@ -361,7 +374,9 @@ Strike
 Subtitles
 Sunday
 Superhero
+Supper
 Sweetheart
+TA
 TRANSCRIPT
 TV
 Taiwan
@@ -376,6 +391,7 @@ Theatre
 They'll
 Thor
 Thursday
+Tina
 Titanic
 Todd
 Tokyo
@@ -393,6 +409,7 @@ Um
 Umm
 Unbelievable
 Uncle
+V-neck
 Victor
 Vietnam
 Voicemail
@@ -522,6 +539,7 @@ admit
 admitted
 adopt
 adopted
+adoption
 adoptive
 adult
 advance
@@ -690,6 +708,7 @@ apartment
 apartments
 apologetic
 apologise
+apologised
 apologize
 apparent
 apparently
@@ -728,6 +747,7 @@ approximations
 april
 arbitrary
 architect
+architectural
 are
 area
 areas
@@ -826,6 +846,7 @@ attributed
 attributes
 audience
 audio
+aunt
 austria
 author
 authorities
@@ -1087,6 +1108,7 @@ brass
 brave
 bread
 break
+break-up
 breakfast
 breaks
 breasts
@@ -1113,6 +1135,7 @@ brother
 brothers
 brought
 brown
+brownstone
 bruise
 brunch
 bubble
@@ -1147,6 +1170,7 @@ busiest
 business
 businesses
 but
+butt-naked
 button
 button-down
 buy
@@ -1269,6 +1293,7 @@ celestial
 cell
 cells
 cement
+censor
 cent
 center
 centered
@@ -1323,6 +1348,7 @@ cheaters
 cheating
 check
 checked
+cheek
 cheer
 cheerful
 cheerleader
@@ -1546,6 +1572,7 @@ conceptual
 concern
 concerned
 concerns
+concert
 conclude
 concluded
 conclusion
@@ -1671,6 +1698,7 @@ copyright
 copyrighted
 core
 corn
+corner
 corporations
 correct
 correctly
@@ -1714,6 +1742,7 @@ covering
 covers
 cow
 cowardly
+cowboy
 crackers
 cracks
 crap
@@ -1721,6 +1750,7 @@ crash
 crashed
 craving
 crawl
+craziest
 crazy
 cream
 cream-coloured
@@ -2166,6 +2196,7 @@ drove
 drug
 drugs
 drums
+drunk
 dry
 dryer
 dualities
@@ -2301,6 +2332,7 @@ employee
 employees
 employing
 employment
+emptied
 empty
 emptying
 enable
@@ -2390,6 +2422,7 @@ european
 evacuate
 evaluate
 evaluation
+evaluations
 eve
 even
 event
@@ -2411,6 +2444,7 @@ evolutionary
 evolve
 evolved
 evolves
+ex-boyfriend
 exact
 exactly
 exaggerated
@@ -2506,6 +2540,7 @@ extreme
 extremely
 eye
 eyes
+eyewitness
 f
 fabrics
 face
@@ -2567,6 +2602,7 @@ favorite
 favour
 favourite
 favourites
+fax
 fear
 feared
 fearful
@@ -2628,6 +2664,7 @@ financial-aid
 financially
 find
 finding
+finds
 fine
 fine-tuned
 fine-tuning
@@ -2720,6 +2757,7 @@ forget
 forgets
 forgetting
 forgive
+forgiven
 forgot
 forks
 form
@@ -2765,6 +2803,7 @@ fred
 free
 freedom
 freely
+freestyle
 freeze
 freezes
 freezing
@@ -3042,6 +3081,8 @@ he
 he'd
 he'll
 head
+headache
+headed
 heading
 heads
 heal
@@ -3055,6 +3096,7 @@ hearing
 heart
 heartbeat
 heat
+heated
 heating
 heaven
 heavenly
@@ -3077,6 +3119,7 @@ her
 herbs
 herd
 here
+hero
 herself
 hex
 hid
@@ -3405,6 +3448,7 @@ intermediate
 internal
 international
 internet
+internship
 interpolating
 interpret
 interpretation
@@ -3448,6 +3492,7 @@ invested
 investigated
 investigating
 investigation
+investigator
 investing
 investment
 invisible
@@ -3486,6 +3531,7 @@ its
 itself
 j
 jacket
+jam
 james
 jammed
 janitor
@@ -4437,6 +4483,7 @@ owned
 owners
 ownership
 owning
+owns
 oxford
 oxygen
 p
@@ -4448,6 +4495,7 @@ packaged
 packaging
 packed
 packet
+packets
 packing
 packs
 pad
@@ -4526,6 +4574,7 @@ paved
 pay
 paying
 payments
+payphone
 pays
 pdf
 peace
@@ -4686,6 +4735,7 @@ pointed
 pointing
 pointless
 points
+poisoning
 poke
 poked
 polarized
@@ -4844,6 +4894,7 @@ professionally
 professor
 professors
 profitable
+profits
 profoundly
 program
 programme
@@ -5065,6 +5116,7 @@ recommend
 recommendations
 record
 recorded
+recorder
 recording
 records
 recover
@@ -5120,6 +5172,7 @@ reject
 rejected
 rejecting
 rejection
+rejects
 relate
 related
 relates
@@ -5139,6 +5192,7 @@ relevance
 relevant
 relieved
 religion
+religions
 religious
 rely
 relying
@@ -5151,6 +5205,7 @@ remarkable
 remarkably
 remarked
 remember
+remembered
 remind
 reminded
 reminding
@@ -5280,6 +5335,7 @@ riding
 right
 rights
 rigorously
+ring
 rings
 rip
 ripped
@@ -5372,6 +5428,7 @@ sandal
 sandals
 sandstone
 sandwich
+sandwich-maker
 sandwiched
 sandwiches
 sang
@@ -5383,6 +5440,8 @@ satisfied
 satisfies
 satisfy
 sauce
+sausage
+sausages
 save
 saved
 saves
@@ -5400,6 +5459,7 @@ scanning
 scar
 scare
 scared
+scarier
 scariest
 scaring
 scary
@@ -5428,6 +5488,7 @@ score
 scores
 scottish
 scrap
+scratching
 scream
 screaming
 screen
@@ -5483,6 +5544,7 @@ self-pity
 self-replicate
 self-replicating
 self-reproducing
+self-respect
 self-satisfier
 selfish
 sell
@@ -5519,6 +5581,7 @@ serve
 servers
 serves
 services
+session
 sessions
 set
 sets
@@ -5527,6 +5590,7 @@ settle
 seven
 seventeen
 seventeenth
+seventh
 several
 severely
 sew
@@ -5554,6 +5618,7 @@ shaper
 shapes
 share
 shared
+sharing
 shark
 sharp
 sharply
@@ -5683,6 +5748,7 @@ skirt
 skirts
 sky
 slack
+slam
 slave
 slavery
 sleep
@@ -6073,6 +6139,7 @@ supporting
 supports
 suppose
 supposed
+supposedly
 suppressed
 supreme
 sure
@@ -6233,6 +6300,7 @@ textbook
 texts
 than
 thank
+thanked
 thankfully
 thanks
 that
@@ -6374,6 +6442,7 @@ tourists
 tours
 toward
 towards
+towel
 towels
 tower
 town
@@ -6452,6 +6521,7 @@ truly
 trust
 trust-building
 trusted
+trusting
 truth
 truths
 try
@@ -6478,6 +6548,7 @@ twenty-six
 twice
 two
 two-dimensional
+two-for-one
 two-minute
 two-slit
 two-week
@@ -6491,9 +6562,11 @@ typos
 u
 ugly
 uh
+uh-uh
 ultimate
 ultimately
 ultralight
+ultraviolet-photography
 unable
 unacceptable
 unaffected
@@ -6541,6 +6614,7 @@ unethical
 uneven
 unfair
 unfinished
+unfit
 unfortunately
 unhappy
 unhealthy
@@ -6581,6 +6655,7 @@ unobservable
 unobserved
 unpacking
 unrealistic
+unreliable
 unremarkable
 unromantic
 unsafe
@@ -6693,6 +6768,7 @@ vital
 vitamin
 vocab
 vocabulary
+vodka
 voice
 voices
 volcanic
@@ -6734,6 +6810,7 @@ wanting
 wants
 war
 wardrobe
+warehouse
 warm
 warm-up
 warmer
@@ -6825,6 +6902,7 @@ white
 whiter
 whites
 who
+who'd
 who'll
 whole
 wholly
@@ -6894,6 +6972,7 @@ workings
 workouts
 workplace
 works
+workspace
 workspaces
 world
 worlds
@@ -6911,6 +6990,7 @@ would
 would've
 wouldn't
 wrap
+wrestle
 write
 writers
 writes
