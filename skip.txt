@@ -56,6 +56,7 @@ americanaccent
 and-once
 another-the
 atomic-or
+ax
 based-is
 bc-
 bc-270
@@ -69,6 +70,7 @@ book-feynman's
 boundary-the
 buckyball's
 buckyballs-interacts
+bx
 bäbizän
 bæ
 carbon-based
@@ -89,6 +91,7 @@ dualities-that
 duality-the
 dæon
 eastward-in
+eco
 ee
 eh
 electrons-and
@@ -149,6 +152,7 @@ mini-quick
 model-the
 moderate-
 molecules-each
+n64
 name-but
 nature-have
 nature-that
