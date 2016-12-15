@@ -104,6 +104,7 @@ Bye
 Bye-bye
 CD
 CDs
+CMU
 COBOL
 COMPREHENSION
 Cable
@@ -223,6 +224,7 @@ Glides
 Gmail
 Goodnight
 Google
+Gophers
 Grab
 Grammar
 Grandma
@@ -235,6 +237,7 @@ Handbook
 Hanna
 Harassment
 Harold
+Harper
 Harvard
 Harvey
 Hawaii
@@ -423,6 +426,7 @@ Republican
 Republicans
 Rick
 Ricki
+Rob
 Rolf
 Rosa
 Roy
@@ -457,6 +461,7 @@ Shifts
 Shop
 Signal
 Simmons
+Simon
 Single-Word
 Smith
 Smoke
@@ -494,6 +499,7 @@ Tense
 Tenses
 Tenth
 Terrific
+Texas
 Thailand
 Thanksgiving
 Theatre
@@ -507,6 +513,7 @@ Titanic
 Todd
 Tokyo
 Tongue
+Tony
 Toyota
 Transitions
 Translation
@@ -579,12 +586,14 @@ absent
 absolute
 absorbed
 abstract
+abstracted
 absurd
 abundance
 abused
 academic
 accelerate
 accelerating
+accelerator
 accent
 accept
 acceptable
@@ -757,6 +766,7 @@ alive
 all
 all-around
 allergic
+allocation
 allow
 allowed
 allowing
@@ -787,6 +797,7 @@ among
 amount
 amounted
 amounts
+ampersand
 amplifies
 amusement
 amusing
@@ -812,6 +823,7 @@ animate
 ankle
 ann
 annotation
+announced
 announcement
 announcements
 annoy
@@ -850,6 +862,7 @@ apologetic
 apologise
 apologised
 apologize
+apology
 apparent
 apparently
 appear
@@ -912,6 +925,7 @@ army
 arose
 around
 arrange
+arranged
 arrangement
 arrangements
 array
@@ -1019,6 +1033,7 @@ awesome
 awful
 awhile
 awkward
+axes
 axis
 b
 babies
@@ -1042,6 +1057,8 @@ baked
 bakery
 balance
 balanced
+balancer
+balances
 balancing
 bald
 ball
@@ -1090,7 +1107,9 @@ be
 beach
 beam
 bear
+bearing
 bears
+beasts
 beat
 beautiful
 beauty
@@ -1171,6 +1190,7 @@ bills
 binary
 binding
 bins
+bio
 bioelectrical
 biological
 biologically
@@ -1194,6 +1214,7 @@ blessed
 blew
 blind
 block
+blocked
 blocking
 blocks
 blood
@@ -1213,6 +1234,7 @@ boat
 bodies
 body
 boil
+boilerplate
 boiling
 bold
 bomb
@@ -1240,6 +1262,7 @@ bottom
 bottom-up
 bought
 bounce
+bouncer
 bouncing
 bound
 boundaries
@@ -1294,6 +1317,7 @@ brothers
 brought
 brown
 brownstone
+browser
 bruise
 brunch
 bubble
@@ -1302,6 +1326,8 @@ bucket
 bucks
 buckyballs
 buddy
+buffered
+buffers
 bug
 bugged
 bugs
@@ -1320,6 +1346,7 @@ bunch
 bunnies
 burger
 burn
+burned
 burning
 burst
 bury
@@ -1487,6 +1514,7 @@ changed
 changes
 changing
 channel
+channels
 chaos
 chapter
 chapters
@@ -1576,6 +1604,7 @@ classic
 classical
 classmate
 classroom
+clause
 clean
 cleaning
 cleans
@@ -1597,6 +1626,8 @@ closely
 closer
 closest
 closet-sized
+closure
+closures
 cloth
 clothes
 clothing
@@ -1610,6 +1641,7 @@ clue
 cluster
 clusters
 co-
+co-worker
 coach
 coaches
 coat
@@ -1675,6 +1707,7 @@ comforting
 coming
 comma
 command
+commands
 commas
 comment
 commented
@@ -1689,9 +1722,11 @@ committee
 common
 commonly
 communicate
+communicating
 communication
 communications
 community
+compacted
 companies
 company
 compare
@@ -1709,6 +1744,7 @@ competitive
 competitors
 compilation
 compile
+compiled
 compiler
 compilers
 complain
@@ -1726,6 +1762,7 @@ component
 components
 compose
 composed
+composes
 composite
 composition
 compound
@@ -1734,6 +1771,7 @@ comprehensible
 compress
 compresses
 compressing
+compute
 computer
 computer-generated
 computerized
@@ -1746,15 +1784,22 @@ concentration
 concept
 concepts
 conceptual
+conceptually
 concern
 concerned
 concerns
 concert
+concisely
 conclude
 concluded
+concludes
 conclusion
 conclusions
 concrete
+concretize
+concurrency
+concurrent
+concurrently
 condition
 conditional
 conditions
@@ -1875,6 +1920,7 @@ copies
 coping
 cops
 copy
+copying
 copyright
 copyrighted
 core
@@ -1994,6 +2040,7 @@ curl
 curled
 curled-up
 curling
+currencies
 currency
 current
 currently
@@ -2028,6 +2075,8 @@ darkness
 darts
 darwin
 data
+database
+databases
 date
 dated
 dates
@@ -2054,6 +2103,7 @@ debate
 debated
 debates
 debris
+debugging
 decade
 decades
 decay
@@ -2069,18 +2119,21 @@ deciphered
 decision
 decisions
 declared
+decomposition
 decorate
 decoration
 decorations
 decorative
 decrease
 decreased
+decrement
 dedicated
 deep
 deepening
 deeper
 deepest
 deeply
+default
 defeated
 defence
 defend
@@ -2106,13 +2159,16 @@ delicious
 delighted
 deliver
 delivered
+delivering
 delivers
 delivery
+delta
 demand
 demanded
 demanding
 demands
 demolish
+demon
 demons
 demonstrate
 demonstrated
@@ -2142,6 +2198,8 @@ describes
 describing
 description
 descriptions
+descriptor
+descriptors
 deserve
 deserved
 design
@@ -2257,6 +2315,7 @@ disaster
 disciplinary
 disco
 discomfort
+disconnect
 disconnected
 discontinue
 discount
@@ -2275,6 +2334,9 @@ disgusting
 dishes
 dishonest
 disk
+dispatch
+dispatched
+dispatches
 display
 displays
 displeased
@@ -2297,6 +2359,8 @@ distortion
 distorts
 distract
 distractions
+distribute
+distributed
 distributing
 distribution
 district
@@ -2358,6 +2422,8 @@ draft
 drafts
 drag
 dragged
+drain
+drains
 drama
 dramatic
 dramatically
@@ -2401,6 +2467,7 @@ duck
 due
 dull
 dumbest
+dump
 during
 dust
 duty
@@ -2509,6 +2576,7 @@ embarrassed
 embarrassing
 embarrassment
 embedding
+embodies
 embrace
 emerge
 emerged
@@ -2534,6 +2602,7 @@ employees
 employing
 employment
 emptied
+empties
 empty
 emptying
 enable
@@ -2673,6 +2742,11 @@ exciting
 exclude
 excluding
 exclusive
+executable
+execute
+executes
+executing
+execution
 executives
 exercise
 exercises
@@ -2718,6 +2792,7 @@ explaining
 explains
 explanation
 explanations
+explicit
 explicitly
 explode
 explodes
@@ -2876,6 +2951,7 @@ find
 finding
 finds
 fine
+fine-grain
 fine-tuned
 fine-tuning
 fine-tunings
@@ -2897,6 +2973,7 @@ firm
 firms
 first
 first-cause
+first-class
 fish
 fishing
 fit
@@ -2980,6 +3057,7 @@ formal
 formally
 formation
 formed
+former
 forming
 forms
 formula
@@ -2992,6 +3070,7 @@ fortune
 forty-eight
 forty-five
 forward
+forwarding
 forwards
 fossil
 fought
@@ -3040,6 +3119,7 @@ frustrated
 fuel
 fulfill
 full
+full-on
 full-time
 fuller
 fully
@@ -3146,10 +3226,13 @@ god
 godless
 gods
 goes
+gofer
 going
 gold
 goldfish
 golf
+golfer
+golfers
 gone
 gonna
 good
@@ -3157,6 +3240,7 @@ goodbye
 goodness
 goods
 goose
+gopher
 got
 gotta
 gotten
@@ -3221,7 +3305,9 @@ grown-up
 grows
 growth
 guarantee
+guaranteed
 guard
+guarded
 guards
 guess
 guidance
@@ -3271,6 +3357,7 @@ handsome
 handwrite
 handwriting
 handwritten
+handy
 hang
 hanging
 hangs
@@ -3320,6 +3407,7 @@ heals
 health
 healthfulness
 healthy
+heap
 hear
 heard
 hearing
@@ -3478,6 +3566,7 @@ identical
 identification
 identify
 idiot
+idle
 idolised
 if
 ignorance
@@ -3496,6 +3585,7 @@ illustrated
 illustrates
 illustration
 illustrations
+illustrative
 image
 images
 imaginary
@@ -3515,6 +3605,7 @@ impatient
 implementation
 implication
 implications
+implicitly
 implied
 implies
 imply
@@ -3619,6 +3710,7 @@ ing
 ingredient
 ingredients
 inherent
+inherently
 initial
 initially
 initiate
@@ -3631,6 +3723,7 @@ ink
 innocent
 innovations
 input
+inputs
 inquiries
 insane
 insecurities
@@ -3659,6 +3752,7 @@ instruments
 insulted
 insulting
 insurance
+integer
 integers
 integral
 intellectual
@@ -3733,6 +3827,7 @@ invent
 invented
 inventing
 invention
+inverse
 inversely
 invested
 investigated
@@ -3835,7 +3930,9 @@ kepler
 kept
 ketchup
 key
+keyboard
 keys
+keyword
 kick
 kicking
 kid
@@ -3923,6 +4020,7 @@ laughing
 laughs
 launch
 launched
+launching
 laundry
 law
 laws
@@ -3998,6 +4096,7 @@ light-years
 lighten
 lighter
 lighting
+lightly
 lights
 like
 liked
@@ -4014,8 +4113,11 @@ lines
 linguistic
 linguistics
 link
+linked
 linker
 linkers
+links
+linux
 lip
 lips
 liquid
@@ -4040,6 +4142,9 @@ lives
 living
 ll
 lnconsistent
+load
+load-balancing
+loaded
 loading
 loan
 local
@@ -4132,6 +4237,7 @@ made-up
 madness
 magazines
 magic
+magical
 magnetic
 magnetism
 mail
@@ -4347,6 +4453,7 @@ mission
 mistake
 mistakenly
 mistakes
+misunderstood
 mixed
 mixing
 mock
@@ -4364,6 +4471,7 @@ modest
 modifications
 modified
 modify
+module
 moist
 molecular
 molecule
@@ -4417,9 +4525,13 @@ moving
 much
 mud
 mug
+multi-core
+multi-goal
+multi-way
 multilayered
 multiple
 multiple-star
+multiplex
 multiply
 multiprocessor
 murder
@@ -4495,6 +4607,7 @@ nervous
 nest
 net
 network
+networking
 neuron
 neuroscience
 neutral
@@ -4513,6 +4626,7 @@ newton
 next
 nice
 nice-guy
+nicely
 nicer
 nickel
 night
@@ -4530,6 +4644,7 @@ nobel
 nobody
 nod
 noise
+non
 non-cheater
 non-euclidean
 non-fat
@@ -4606,6 +4721,7 @@ observes
 observing
 obsession
 obsessive
+obsolete
 obtain
 obtained
 obtaining
@@ -4659,6 +4775,7 @@ one-on-one
 one-page
 one-syllable
 one-third
+one-two
 one-woman
 ones
 oneself
@@ -4681,6 +4798,7 @@ operate
 operated
 operates
 operating
+operation
 operations
 opinion
 opinions
@@ -4721,6 +4839,7 @@ organized
 organizing
 organs
 orientation
+oriented
 origin
 original
 originally
@@ -4745,6 +4864,7 @@ outfit
 outgoing
 outlines
 output
+outputs
 outrageous
 outside
 outsider
@@ -4822,6 +4942,8 @@ papers
 paperwork
 paradoxes
 parallel
+parallelism
+parallels
 parameter
 parameters
 paranoid
@@ -4863,6 +4985,7 @@ passwords
 past
 paste
 pasts
+patch
 patent
 path
 pathetic
@@ -4888,6 +5011,7 @@ peculiar
 pedal
 pen
 penalty
+pending
 penis
 penny
 pens
@@ -4981,6 +5105,7 @@ piles
 pill
 pillows
 pills
+pilot
 pilots
 pin
 pine
@@ -4989,6 +5114,7 @@ pinpoint
 pinpointing
 pins
 pint
+pipes
 pirates
 pities
 pity
@@ -5085,6 +5211,7 @@ possibility
 possible
 possibly
 postpone
+pot
 potato
 potatoes
 potential
@@ -5175,6 +5302,7 @@ print
 printed
 prints
 prior
+priority
 prison
 prisoners
 privacy
@@ -5193,11 +5321,14 @@ problem
 problematic
 problems
 procedure
+procedures
 proceed
 proceedings
 process
 processes
 processing
+processor
+processors
 produce
 produced
 producer
@@ -5212,6 +5343,7 @@ professors
 profit
 profitable
 profits
+profound
 profoundly
 program
 programme
@@ -5274,6 +5406,8 @@ provide
 provided
 provides
 providing
+proxies
+proxy
 pseudo
 psychology
 public
@@ -5325,9 +5459,12 @@ quark
 quarks
 quarter
 quarters
+query
 question
 questions
+queue
 quick
+quicker
 quickly
 quiet
 quieter
@@ -5401,6 +5538,7 @@ realised
 realising
 realism
 realist
+realistic
 realists
 reality
 realization
@@ -5410,6 +5548,7 @@ realizes
 really
 reappears
 rear-view
+rearrange
 reason
 reasonable
 reasoned
@@ -5449,6 +5588,7 @@ rediscovered
 reduce
 reduced
 reductions
+refactor
 refer
 reference
 referred
@@ -5560,7 +5700,10 @@ replace
 replaced
 replaces
 replacing
+replica
+replicants
 replicate
+replicated
 replied
 replies
 report
@@ -5581,6 +5724,9 @@ reproduces
 reproducing
 reproduction
 request
+requested
+requester
+requesters
 requests
 require
 required
@@ -5606,6 +5752,7 @@ resolution
 resolved
 resolves
 resort
+resource
 resources
 respect
 respond
@@ -5742,6 +5889,7 @@ rural
 rush
 rushing
 russian
+rust
 s
 sacrifice
 sad
@@ -5790,8 +5938,10 @@ saw
 say
 saying
 says
+scalable
 scale
 scales
+scaling
 scan
 scandal
 scanned
@@ -5897,6 +6047,7 @@ sells
 semantic
 semantics
 semester
+semi-realistic
 semivowels
 senator
 senators
@@ -5919,10 +6070,12 @@ separates
 separating
 separation
 sequence
+sequential
 series
 serious
 seriously
 serve
+server
 servers
 serves
 services
@@ -5962,6 +6115,7 @@ shape
 shaped
 shaper
 shapes
+shards
 share
 shared
 sharing
@@ -6055,6 +6209,7 @@ simpler
 simplest
 simplicity
 simplified
+simplistic
 simply
 simulate
 simulated
@@ -6064,9 +6219,11 @@ sincere
 sing
 singing
 single
+single-channel
 singular
 singularity
 sink
+sinks
 sir
 sister
 sisters
@@ -6083,6 +6240,7 @@ sixty
 size
 sizes
 skeleton
+sketchbook
 sketches
 skiing
 skill
@@ -6257,6 +6415,7 @@ spirit
 spirits
 spiritual
 spit
+spits
 split
 spoils
 spoke
@@ -6283,6 +6442,7 @@ stable
 stack
 stacks
 staff
+staging
 stairs
 stamp
 stand
@@ -6435,8 +6595,10 @@ subset
 substance
 substantial
 substitutes
+substituting
 subtle
 subtlety
+subtly
 subtract
 subtracting
 subway
@@ -6563,6 +6725,8 @@ symmetry
 symphony-composing
 symptom
 symptoms
+synchronization
+synchronize
 syntactically
 syntax
 synthesized
@@ -6603,6 +6767,7 @@ tape
 tapes
 target
 task
+tasks
 taste
 tasted
 tasteful
@@ -6623,6 +6788,7 @@ team
 team-building
 teams
 tear
+teardown
 tears
 tease
 teasing
@@ -6736,6 +6902,7 @@ thoughts
 thousand
 thousands
 thread
+threads
 threat
 threaten
 threatens
@@ -6747,6 +6914,7 @@ thrilled
 throat
 through
 throughout
+throughput
 throw
 throwing
 thrown
@@ -6772,6 +6940,7 @@ time
 time-tested
 time-zero
 timeline
+timer
 times
 timing
 tiny
@@ -6884,6 +7053,7 @@ triangle
 tribes
 trick
 trick-or-treating
+trickier
 tricks
 tricky
 tried
@@ -6893,6 +7063,7 @@ trimmed
 trip
 triple
 triumph
+trivial
 tropical
 tropics
 trouble
@@ -7038,16 +7209,19 @@ unless
 unlike
 unlikely
 unlimited
+unloading
 unlucky
 unnecessary
 unobservable
 unobserved
 unpacking
 unrealistic
+unreasonable
 unrefined
 unreliable
 unremarkable
 unromantic
+unrunnable
 unsafe
 unsatisfactory
 unsatisfying
@@ -7063,6 +7237,8 @@ unusual
 unwanted
 up
 upcoming
+update
+updated
 upon
 upper
 upright
@@ -7081,6 +7257,7 @@ used
 useful
 useless
 user
+users
 uses
 using
 usual
@@ -7112,6 +7289,7 @@ varying
 vase
 vast
 vastly
+vector
 vegetable
 vegetables
 vehicles
