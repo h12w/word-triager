@@ -13,6 +13,7 @@
 3Track
 4Track
 7P108
+9-to-5
 AW
 Américan
 Bä
@@ -81,10 +82,13 @@ chapter-feynman
 check-just
 conditions-the
 conway-type
+couldn
 creators-we
 d'v
 dai
+de
 delayed-choice
+didn
 dimensions-they
 doesn
 dualities-that
@@ -118,6 +122,8 @@ geometry-is
 gravity-general
 gεt
 habitat-now
+hadn
+hasn
 histories-that
 histories-the
 holes-he
@@ -127,6 +133,7 @@ ih
 in-the
 input-that
 interference-the
+isn
 it-does
 iv
 ix
@@ -195,6 +202,7 @@ question-the
 questions-how
 ranges-for
 rate-in
+re
 relativity-are
 relativity-at
 respect-their
@@ -209,6 +217,7 @@ speakingu
 squares-roughly
 stable-to
 still-life
+sub-4
 system-but
 table-disappears-when-i-leave-the-room
 takes-that
@@ -242,6 +251,7 @@ universe-when
 universe-where
 us-the
 us-will
+ve
 vi
 vii
 viii
@@ -250,6 +260,7 @@ wave-is
 westward-against
 which-path
 width-like
+wouldn
 wuh
 year-see
 yellow---not
